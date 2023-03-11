@@ -7,3 +7,7 @@ Just a weekend project to see if I can search a project repo for code matches us
 ```
 docker-compose up
 ```
+
+```
+ruby load.rb ~/path/to/your/repo
+```
